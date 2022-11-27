@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">Timestamp</Data></Cell>
+			<Cell><Data ss:Type="String">AmbientTemperature</Data></Cell>
+			<Cell><Data ss:Type="String">Humidity</Data></Cell>
+			<Cell><Data ss:Type="String">Lumen</Data></Cell>
+			<Cell><Data ss:Type="String">ModulTemperature</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">2022-10-24 15:20:48</Data></Cell>
+			<Cell><Data ss:Type="Number">25.88</Data></Cell>
+			<Cell><Data ss:Type="Number">89.99</Data></Cell>
+			<Cell><Data ss:Type="Number">1510</Data></Cell>
+			<Cell><Data ss:Type="Number">2.82</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2022-10-24 15:21:34</Data></Cell>
+			<Cell><Data ss:Type="Number">25.92</Data></Cell>
+			<Cell><Data ss:Type="Number">90.02</Data></Cell>
+			<Cell><Data ss:Type="Number">1510</Data></Cell>
+			<Cell><Data ss:Type="Number">2.81</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2022-10-24 15:22:26</Data></Cell>
+			<Cell><Data ss:Type="Number">25.92</Data></Cell>
+			<Cell><Data ss:Type="Number">90.02</Data></Cell>
+			<Cell><Data ss:Type="Number">1510</Data></Cell>
+			<Cell><Data ss:Type="Number">2.83</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2022-10-24 15:23:26</Data></Cell>
+			<Cell><Data ss:Type="Number">25.93</Data></Cell>
+			<Cell><Data ss:Type="Number">90.18</Data></Cell>
+			<Cell><Data ss:Type="Number">1510</Data></Cell>
+			<Cell><Data ss:Type="Number">2.82</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2022-10-24 15:24:26</Data></Cell>
+			<Cell><Data ss:Type="Number">25.96</Data></Cell>
+			<Cell><Data ss:Type="Number">90.12</Data></Cell>
+			<Cell><Data ss:Type="Number">1500</Data></Cell>
+			<Cell><Data ss:Type="Number">2.82</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2022-10-24 15:24:27</Data></Cell>
+			<Cell><Data ss:Type="Number">25.95</Data></Cell>
+			<Cell><Data ss:Type="Number">89.91</Data></Cell>
+			<Cell><Data ss:Type="Number">1490</Data></Cell>
+			<Cell><Data ss:Type="Number">2.82</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2022-10-24 15:25:26</Data></Cell>
+			<Cell><Data ss:Type="Number">25.95</Data></Cell>
+			<Cell><Data ss:Type="Number">89.91</Data></Cell>
+			<Cell><Data ss:Type="Number">1490</Data></Cell>
+			<Cell><Data ss:Type="Number">2.81</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2022-10-24 15:25:27</Data></Cell>
+			<Cell><Data ss:Type="Number">25.93</Data></Cell>
+			<Cell><Data ss:Type="Number">90.23</Data></Cell>
+			<Cell><Data ss:Type="Number">1470</Data></Cell>
+			<Cell><Data ss:Type="Number">2.81</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2022-10-24 15:26:26</Data></Cell>
+			<Cell><Data ss:Type="Number">25.93</Data></Cell>
+			<Cell><Data ss:Type="Number">90.23</Data></Cell>
+			<Cell><Data ss:Type="Number">1470</Data></Cell>
+			<Cell><Data ss:Type="Number">2.81</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2022-10-24 15:26:27</Data></Cell>
+			<Cell><Data ss:Type="Number">25.91</Data></Cell>
+			<Cell><Data ss:Type="Number">89.51</Data></Cell>
+			<Cell><Data ss:Type="Number">1470</Data></Cell>
+			<Cell><Data ss:Type="Number">2.81</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2022-10-24 15:27:26</Data></Cell>
+			<Cell><Data ss:Type="Number">25.91</Data></Cell>
+			<Cell><Data ss:Type="Number">89.51</Data></Cell>
+			<Cell><Data ss:Type="Number">1440</Data></Cell>
+			<Cell><Data ss:Type="Number">2.8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2022-10-24 15:27:27</Data></Cell>
+			<Cell><Data ss:Type="Number">25.98</Data></Cell>
+			<Cell><Data ss:Type="Number">89.53</Data></Cell>
+			<Cell><Data ss:Type="Number">1410</Data></Cell>
+			<Cell><Data ss:Type="Number">2.8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2022-10-24 15:28:26</Data></Cell>
+			<Cell><Data ss:Type="Number">25.98</Data></Cell>
+			<Cell><Data ss:Type="Number">89.53</Data></Cell>
+			<Cell><Data ss:Type="Number">1410</Data></Cell>
+			<Cell><Data ss:Type="Number">2.8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2022-10-24 15:28:27</Data></Cell>
+			<Cell><Data ss:Type="Number">25.91</Data></Cell>
+			<Cell><Data ss:Type="Number">88.93</Data></Cell>
+			<Cell><Data ss:Type="Number">1360</Data></Cell>
+			<Cell><Data ss:Type="Number">2.8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2022-10-24 15:29:26</Data></Cell>
+			<Cell><Data ss:Type="Number">25.91</Data></Cell>
+			<Cell><Data ss:Type="Number">88.93</Data></Cell>
+			<Cell><Data ss:Type="Number">1360</Data></Cell>
+			<Cell><Data ss:Type="Number">2.8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2022-10-24 15:30:26</Data></Cell>
+			<Cell><Data ss:Type="Number">25.99</Data></Cell>
+			<Cell><Data ss:Type="Number">88.79</Data></Cell>
+			<Cell><Data ss:Type="Number">1270</Data></Cell>
+			<Cell><Data ss:Type="Number">2.79</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2022-10-24 15:30:27</Data></Cell>
+			<Cell><Data ss:Type="Number">25.79</Data></Cell>
+			<Cell><Data ss:Type="Number">88.88</Data></Cell>
+			<Cell><Data ss:Type="Number">1180</Data></Cell>
+			<Cell><Data ss:Type="Number">2.79</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2022-10-24 15:31:26</Data></Cell>
+			<Cell><Data ss:Type="Number">25.79</Data></Cell>
+			<Cell><Data ss:Type="Number">88.88</Data></Cell>
+			<Cell><Data ss:Type="Number">1180</Data></Cell>
+			<Cell><Data ss:Type="Number">2.79</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2022-10-24 15:31:27</Data></Cell>
+			<Cell><Data ss:Type="Number">25.92</Data></Cell>
+			<Cell><Data ss:Type="Number">89.01</Data></Cell>
+			<Cell><Data ss:Type="Number">1090</Data></Cell>
+			<Cell><Data ss:Type="Number">2.79</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2022-10-24 15:32:26</Data></Cell>
+			<Cell><Data ss:Type="Number">25.92</Data></Cell>
+			<Cell><Data ss:Type="Number">89.01</Data></Cell>
+			<Cell><Data ss:Type="Number">1090</Data></Cell>
+			<Cell><Data ss:Type="Number">2.78</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2022-10-24 15:32:27</Data></Cell>
+			<Cell><Data ss:Type="Number">25.95</Data></Cell>
+			<Cell><Data ss:Type="Number">89.45</Data></Cell>
+			<Cell><Data ss:Type="Number">1010</Data></Cell>
+			<Cell><Data ss:Type="Number">2.78</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2022-10-24 15:33:26</Data></Cell>
+			<Cell><Data ss:Type="Number">25.89</Data></Cell>
+			<Cell><Data ss:Type="Number">89.45</Data></Cell>
+			<Cell><Data ss:Type="Number">1010</Data></Cell>
+			<Cell><Data ss:Type="Number">2.77</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2022-10-24 15:33:27</Data></Cell>
+			<Cell><Data ss:Type="Number">25.89</Data></Cell>
+			<Cell><Data ss:Type="Number">89.08</Data></Cell>
+			<Cell><Data ss:Type="Number">960</Data></Cell>
+			<Cell><Data ss:Type="Number">2.77</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2022-10-24 15:34:26</Data></Cell>
+			<Cell><Data ss:Type="Number">25.89</Data></Cell>
+			<Cell><Data ss:Type="Number">89.08</Data></Cell>
+			<Cell><Data ss:Type="Number">960</Data></Cell>
+			<Cell><Data ss:Type="Number">2.77</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2022-10-24 15:34:27</Data></Cell>
+			<Cell><Data ss:Type="Number">25.91</Data></Cell>
+			<Cell><Data ss:Type="Number">89.18</Data></Cell>
+			<Cell><Data ss:Type="Number">950</Data></Cell>
+			<Cell><Data ss:Type="Number">2.77</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2022-10-24 15:35:26</Data></Cell>
+			<Cell><Data ss:Type="Number">25.91</Data></Cell>
+			<Cell><Data ss:Type="Number">89.18</Data></Cell>
+			<Cell><Data ss:Type="Number">950</Data></Cell>
+			<Cell><Data ss:Type="Number">2.76</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2022-10-24 15:35:27</Data></Cell>
+			<Cell><Data ss:Type="Number">26.03</Data></Cell>
+			<Cell><Data ss:Type="Number">89.64</Data></Cell>
+			<Cell><Data ss:Type="Number">950</Data></Cell>
+			<Cell><Data ss:Type="Number">2.76</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

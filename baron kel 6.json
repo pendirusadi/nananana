@@ -1,0 +1,191 @@
+[
+	{
+		"Timestamp" : "2022-10-24 15:20:48",
+		"AmbientTemperature" : 25.88,
+		"Humidity" : 89.99,
+		"Lumen" : 1510,
+		"ModulTemperature" : 2.82
+	},
+	{
+		"Timestamp" : "2022-10-24 15:21:34",
+		"AmbientTemperature" : 25.92,
+		"Humidity" : 90.02,
+		"Lumen" : 1510,
+		"ModulTemperature" : 2.81
+	},
+	{
+		"Timestamp" : "2022-10-24 15:22:26",
+		"AmbientTemperature" : 25.92,
+		"Humidity" : 90.02,
+		"Lumen" : 1510,
+		"ModulTemperature" : 2.83
+	},
+	{
+		"Timestamp" : "2022-10-24 15:23:26",
+		"AmbientTemperature" : 25.93,
+		"Humidity" : 90.18,
+		"Lumen" : 1510,
+		"ModulTemperature" : 2.82
+	},
+	{
+		"Timestamp" : "2022-10-24 15:24:26",
+		"AmbientTemperature" : 25.96,
+		"Humidity" : 90.12,
+		"Lumen" : 1500,
+		"ModulTemperature" : 2.82
+	},
+	{
+		"Timestamp" : "2022-10-24 15:24:27",
+		"AmbientTemperature" : 25.95,
+		"Humidity" : 89.91,
+		"Lumen" : 1490,
+		"ModulTemperature" : 2.82
+	},
+	{
+		"Timestamp" : "2022-10-24 15:25:26",
+		"AmbientTemperature" : 25.95,
+		"Humidity" : 89.91,
+		"Lumen" : 1490,
+		"ModulTemperature" : 2.81
+	},
+	{
+		"Timestamp" : "2022-10-24 15:25:27",
+		"AmbientTemperature" : 25.93,
+		"Humidity" : 90.23,
+		"Lumen" : 1470,
+		"ModulTemperature" : 2.81
+	},
+	{
+		"Timestamp" : "2022-10-24 15:26:26",
+		"AmbientTemperature" : 25.93,
+		"Humidity" : 90.23,
+		"Lumen" : 1470,
+		"ModulTemperature" : 2.81
+	},
+	{
+		"Timestamp" : "2022-10-24 15:26:27",
+		"AmbientTemperature" : 25.91,
+		"Humidity" : 89.51,
+		"Lumen" : 1470,
+		"ModulTemperature" : 2.81
+	},
+	{
+		"Timestamp" : "2022-10-24 15:27:26",
+		"AmbientTemperature" : 25.91,
+		"Humidity" : 89.51,
+		"Lumen" : 1440,
+		"ModulTemperature" : 2.8
+	},
+	{
+		"Timestamp" : "2022-10-24 15:27:27",
+		"AmbientTemperature" : 25.98,
+		"Humidity" : 89.53,
+		"Lumen" : 1410,
+		"ModulTemperature" : 2.8
+	},
+	{
+		"Timestamp" : "2022-10-24 15:28:26",
+		"AmbientTemperature" : 25.98,
+		"Humidity" : 89.53,
+		"Lumen" : 1410,
+		"ModulTemperature" : 2.8
+	},
+	{
+		"Timestamp" : "2022-10-24 15:28:27",
+		"AmbientTemperature" : 25.91,
+		"Humidity" : 88.93,
+		"Lumen" : 1360,
+		"ModulTemperature" : 2.8
+	},
+	{
+		"Timestamp" : "2022-10-24 15:29:26",
+		"AmbientTemperature" : 25.91,
+		"Humidity" : 88.93,
+		"Lumen" : 1360,
+		"ModulTemperature" : 2.8
+	},
+	{
+		"Timestamp" : "2022-10-24 15:30:26",
+		"AmbientTemperature" : 25.99,
+		"Humidity" : 88.79,
+		"Lumen" : 1270,
+		"ModulTemperature" : 2.79
+	},
+	{
+		"Timestamp" : "2022-10-24 15:30:27",
+		"AmbientTemperature" : 25.79,
+		"Humidity" : 88.88,
+		"Lumen" : 1180,
+		"ModulTemperature" : 2.79
+	},
+	{
+		"Timestamp" : "2022-10-24 15:31:26",
+		"AmbientTemperature" : 25.79,
+		"Humidity" : 88.88,
+		"Lumen" : 1180,
+		"ModulTemperature" : 2.79
+	},
+	{
+		"Timestamp" : "2022-10-24 15:31:27",
+		"AmbientTemperature" : 25.92,
+		"Humidity" : 89.01,
+		"Lumen" : 1090,
+		"ModulTemperature" : 2.79
+	},
+	{
+		"Timestamp" : "2022-10-24 15:32:26",
+		"AmbientTemperature" : 25.92,
+		"Humidity" : 89.01,
+		"Lumen" : 1090,
+		"ModulTemperature" : 2.78
+	},
+	{
+		"Timestamp" : "2022-10-24 15:32:27",
+		"AmbientTemperature" : 25.95,
+		"Humidity" : 89.45,
+		"Lumen" : 1010,
+		"ModulTemperature" : 2.78
+	},
+	{
+		"Timestamp" : "2022-10-24 15:33:26",
+		"AmbientTemperature" : 25.89,
+		"Humidity" : 89.45,
+		"Lumen" : 1010,
+		"ModulTemperature" : 2.77
+	},
+	{
+		"Timestamp" : "2022-10-24 15:33:27",
+		"AmbientTemperature" : 25.89,
+		"Humidity" : 89.08,
+		"Lumen" : 960,
+		"ModulTemperature" : 2.77
+	},
+	{
+		"Timestamp" : "2022-10-24 15:34:26",
+		"AmbientTemperature" : 25.89,
+		"Humidity" : 89.08,
+		"Lumen" : 960,
+		"ModulTemperature" : 2.77
+	},
+	{
+		"Timestamp" : "2022-10-24 15:34:27",
+		"AmbientTemperature" : 25.91,
+		"Humidity" : 89.18,
+		"Lumen" : 950,
+		"ModulTemperature" : 2.77
+	},
+	{
+		"Timestamp" : "2022-10-24 15:35:26",
+		"AmbientTemperature" : 25.91,
+		"Humidity" : 89.18,
+		"Lumen" : 950,
+		"ModulTemperature" : 2.76
+	},
+	{
+		"Timestamp" : "2022-10-24 15:35:27",
+		"AmbientTemperature" : 26.03,
+		"Humidity" : 89.64,
+		"Lumen" : 950,
+		"ModulTemperature" : 2.76
+	}
+]
